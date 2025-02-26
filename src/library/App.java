@@ -1,4 +1,8 @@
+package library;
 import java.util.ArrayList;
+import library.models.Catalogo;
+import library.models.Libro;
+
 public class App{
     public static void main(String[] args) {
         //crea 4 libri
